@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1468900854.svg)](https://doi.org/10.5281/zenodo.24469544)
+
 # Chapter 3 – The Evolution of Mutual Dependence
 
 **George Shillcock**  
